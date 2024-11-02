@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Usage
 Data Loading and Preparation: Load your dataset of tweets with sentiment labels into the data/ directory. The notebook sentiment_spacy.ipynb will guide you through preprocessing steps.
 
-### Training and Evaluation:
+## Training and Evaluation:
 
 -Open sentiment_spacy.ipynb in Jupyter Notebook.
 Run the cells step-by-step to process data, initialize the transformer model, and perform model training.
