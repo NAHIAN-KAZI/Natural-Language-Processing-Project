@@ -63,7 +63,7 @@ Interactive Testing:
 Results and Analysis
 The project generates various evaluation metrics and visualizations, including:
 
-### Confusion Matrix: Shows the breakdown of true vs. false predictions.
+- Confusion Matrix: Shows the breakdown of true vs. false predictions.
 -Learning Curves: Provides insights into how the model's accuracy improves with more data.
 -ROC Curve: Illustrates the model’s performance in distinguishing between positive and negative sentiments.
 
