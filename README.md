@@ -73,7 +73,7 @@ The project generates various evaluation metrics and visualizations, including:
 -Model Fine-tuning: Explore further fine-tuning of transformer layers for improved accuracy.
 -Real-Time Data: Integrate a live feed of tweets for real-time sentiment analysis.
 ## License
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is licensed under the Apache-2.0 License. See LICENSE for more details.
 
 ## Contact
 For questions or contributions:
