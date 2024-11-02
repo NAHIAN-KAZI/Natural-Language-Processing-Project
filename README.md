@@ -51,22 +51,24 @@ Data Loading and Preparation: Load your dataset of tweets with sentiment labels 
 
 ### Training and Evaluation:
 
-Open sentiment_spacy.ipynb in Jupyter Notebook.
+-Open sentiment_spacy.ipynb in Jupyter Notebook.
 Run the cells step-by-step to process data, initialize the transformer model, and perform model training.
 Model Evaluation:
 
-The notebook includes steps to evaluate the model's accuracy, precision, recall, and F1 score.
+-The notebook includes steps to evaluate the model's accuracy, precision, recall, and F1 score.
 Visualizations such as ROC curves and confusion matrices will be generated to better understand model performance.
 Interactive Testing:
 
-After training, you can use the notebook to test the model on new tweets or sample inputs for live sentiment prediction.
+-After training, you can use the notebook to test the model on new tweets or sample inputs for live sentiment prediction.
 Results and Analysis
 The project generates various evaluation metrics and visualizations, including:
 
 ### Confusion Matrix: Shows the breakdown of true vs. false predictions.
 -Learning Curves: Provides insights into how the model's accuracy improves with more data.
 -ROC Curve: Illustrates the model’s performance in distinguishing between positive and negative sentiments.
-##Future Enhancements
+
+## Future Enhancements
+
 ### Expand Sentiment Classes: Extend the model to classify sentiments beyond binary (e.g., neutral, very positive).
 -Model Fine-tuning: Explore further fine-tuning of transformer layers for improved accuracy.
 -Real-Time Data: Integrate a live feed of tweets for real-time sentiment analysis.
