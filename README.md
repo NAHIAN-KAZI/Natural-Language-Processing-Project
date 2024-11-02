@@ -34,3 +34,7 @@ This project requires the following libraries:
 Install the dependencies with:
 ```bash
 pip install -r requirements.txt
+
+### INSTALLATION
+1. Clone this repository: ```bash 
+git clone https://github.com/your-username/twitter-sentiment-analysis-spacy.git
